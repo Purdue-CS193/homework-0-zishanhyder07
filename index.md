@@ -1,4 +1,9 @@
-## Welcome to GitHub Page
+# Zishan Hyder's First CS193 Homework
+
+
+- The opportunity to learn about git and github
+- Being taught by TAs who were in our shoes not long ago
+- Being able to learn about useful skills that every CS/DS/AI major should know
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
